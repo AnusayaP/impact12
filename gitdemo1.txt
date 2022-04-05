@@ -2,5 +2,3 @@ Demo for git....
 
 
 Trying to add new content
-
-add third commit
