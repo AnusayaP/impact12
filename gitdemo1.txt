@@ -1,4 +1,6 @@
 Demo for git....
 
 
-Trying to add new content
+Trying to add new content 
+
+modifying changes for child branch
