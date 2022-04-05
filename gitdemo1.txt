@@ -1,6 +1,15 @@
 Demo for git....
 
 
+<<<<<<< HEAD
 Trying to add new content
 
 Adding into master branch
+
+
+
+=======
+Trying to add new content 
+
+modifying changes for child branch
+>>>>>>> mybranch

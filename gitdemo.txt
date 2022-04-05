@@ -2,6 +2,13 @@ Git Hub first Demo
 
 Adding some more content
 
+<<<<<<< HEAD
 changes in master branch
 
 
+
+
+
+=======
+some more changes in child branch
+>>>>>>> mybranch
